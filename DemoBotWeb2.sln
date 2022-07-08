@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBotWeb2", "DemoBotWeb2\DemoBotWeb2.csproj", "{4BA89F30-BDFA-462A-ADDF-891B7F49FECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA89F30-BDFA-462A-ADDF-891B7F49FECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA89F30-BDFA-462A-ADDF-891B7F49FECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA89F30-BDFA-462A-ADDF-891B7F49FECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA89F30-BDFA-462A-ADDF-891B7F49FECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F84222EC-75A8-44EB-8709-CC46533B51EF}
+	EndGlobalSection
+EndGlobal
